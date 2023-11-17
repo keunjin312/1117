@@ -1,0 +1,75 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev12c class="oracle.dbtools.crest.model.design.storage.oracle.v12c.TableProxyOraclev12c" name="MEMBER" directorySegmentName="seg_0" id="2A1254A6-A9A0-693A-4238-3C1F58EFAB0F">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:22:12 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<schemaObject>7BEBD2E1-BBD1-9605-88E9-9DD9AFA324CD</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>F6F6FD85-1071-C7F1-DF5C-17A5E17D9516</segment>
+<tableSpace>027B8BF7-9C26-7050-645D-7E9C8FC056FF</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<inMemory>NO</inMemory>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="MB_PH" id="148D9C9D-3457-6407-01E7-E44FBB595A36">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:22:12 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="MB_NUM" id="278FE6CC-30BB-5EEA-BA60-B69A66A1CB26">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:22:12 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="MB_BIRTH" id="53489259-2B4D-9FD2-5DD9-4FE910B039B0">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:22:12 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="MB_NAME" id="6064714B-D7C1-96FF-374B-3727F720C7B2">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:22:12 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="MB_JOIN" id="8B785772-14E2-EE88-6EC9-D06DBFA14805">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:22:12 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="MB_ID" id="C44717E1-321A-C312-DF7B-0FD791B63808">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:22:12 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="MB_PW" id="EE33846D-60E7-E3E0-9FE9-4B1D6262F60A">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:22:12 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<indexProxies>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="MEMBER_PK1" id="8923C5C9-F0F5-AA57-874C-B141FC52B4A4">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:22:12 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<schemaObject>7BEBD2E1-BBD1-9605-88E9-9DD9AFA324CD</schemaObject>
+<segment>32E14AC1-DBF0-A966-91E5-26B04BB350C2</segment>
+<tableSpace>027B8BF7-9C26-7050-645D-7E9C8FC056FF</tableSpace>
+</IndexProxy>
+</indexProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="MEMBER_PK" id="4E5FF28A-5EBA-8642-423E-03761ADC07F5">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:22:13 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<segment>32E14AC1-DBF0-A966-91E5-26B04BB350C2</segment>
+<tableSpace>027B8BF7-9C26-7050-645D-7E9C8FC056FF</tableSpace>
+<existingIndex>8923C5C9-F0F5-AA57-874C-B141FC52B4A4</existingIndex>
+<indexSegment>32E14AC1-DBF0-A966-91E5-26B04BB350C2</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev12c>

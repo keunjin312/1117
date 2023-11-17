@@ -1,0 +1,180 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="0D0262A8-5EA1-95BF-998C-7B346C93CF36" schemaObject="7BEBD2E1-BBD1-9605-88E9-9DD9AFA324CD" name="ORDERTIME">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>PCMANAGEMENT</sourceObjSchema>
+<sourceObjName>ORDERTIME</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ORDER_NUM" id="6A6F1C6D-83E9-7255-A38F-E93BA5CE46DF">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>ORDERTIME</sourceObjSchema>
+<sourceObjName>ORDER_NUM</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>5</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,5,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_STARTTIME" id="A7AC135A-AAF9-F9B8-6709-A25B177F92E2">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>ORDERTIME</sourceObjSchema>
+<sourceObjName>ORDER_STARTTIME</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<commentInRDBMS><![CDATA[시작시간]]></commentInRDBMS>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_PAYTIME" id="8F917EA0-289C-96F5-83F4-BE9D5C6A803F">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>ORDERTIME</sourceObjSchema>
+<sourceObjName>ORDER_PAYTIME</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<commentInRDBMS><![CDATA[시간충전]]></commentInRDBMS>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,3,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_TIME" id="0315F232-EC8A-0BF5-F0FB-4BACA104ADFE">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>ORDERTIME</sourceObjSchema>
+<sourceObjName>ORDER_TIME</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<commentInRDBMS><![CDATA[주문시간]]></commentInRDBMS>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_QUITTIME" id="ABFBE7F4-5130-26BB-126E-BE6E11E9260F">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>ORDERTIME</sourceObjSchema>
+<sourceObjName>ORDER_QUITTIME</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<commentInRDBMS><![CDATA[종료시간]]></commentInRDBMS>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_SEAT" id="A577A2EC-A9CC-DB9D-3B49-35F91BF661C6">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>ORDERTIME</sourceObjSchema>
+<sourceObjName>ORDER_SEAT</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_MEMBER" id="C81EF2AF-0C57-D994-35BB-794398279D6B">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>ORDERTIME</sourceObjSchema>
+<sourceObjName>ORDER_MEMBER</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20 BYTE</dataTypeSize>
+<ownDataTypeParameters>20 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_ID" id="9E46C3D0-0751-C94C-8D5B-5DDC110A5DFF">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>ORDERTIME</sourceObjSchema>
+<sourceObjName>ORDER_ID</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="18812341-EBE7-A61F-706F-9138D5F0BBC1" referredColumn="C44717E1-321A-C312-DF7B-0FD791B63808"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="B39D5C2A-9F52-FACE-D94A-928AA8E76396" name="ORDERTIME_PK">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>PCMANAGEMENT</sourceObjSchema>
+<sourceObjName>ORDERTIME_PK</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="6A6F1C6D-83E9-7255-A38F-E93BA5CE46DF"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="6B7EDB15-8554-9339-BDC3-723C5E670097" schemaObject="7BEBD2E1-BBD1-9605-88E9-9DD9AFA324CD" name="ORDERTIME_PK">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>PCMANAGEMENT</sourceObjSchema>
+<sourceObjName>ORDERTIME_PK</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="6A6F1C6D-83E9-7255-A38F-E93BA5CE46DF"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="57420950-E8C7-58ED-5BA6-1027214C2156" name="ORDERTIME_MEMBER_FK">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:06 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="9E46C3D0-0751-C94C-8D5B-5DDC110A5DFF"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

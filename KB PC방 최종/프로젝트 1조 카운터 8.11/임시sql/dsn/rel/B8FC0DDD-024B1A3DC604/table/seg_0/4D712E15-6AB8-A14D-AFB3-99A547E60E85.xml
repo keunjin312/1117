@@ -1,0 +1,168 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="4D712E15-6AB8-A14D-AFB3-99A547E60E85" schemaObject="C5FDC8E2-2C1D-B471-5A5D-09A9D47A77B1" name="LODR">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>PCMANAGEMENT</sourceObjSchema>
+<sourceObjName>LODR</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 03:10:17 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="LODR_NUM" id="D48ECC15-F5E6-0F6A-5280-E96CDA844237">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>LODR</sourceObjSchema>
+<sourceObjName>LODR_NUM</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 03:10:17 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>5</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,5,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="LODR_PRODNUM" id="9BC6244E-0B04-4A0C-707D-FE45FC5EB8CF">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>LODR</sourceObjSchema>
+<sourceObjName>LODR_PRODNUM</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 03:10:17 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,3,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="LODR_AMOUNT" id="5F5B80E4-B105-255B-CB78-4F8522ACA70B">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>LODR</sourceObjSchema>
+<sourceObjName>LODR_AMOUNT</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 03:10:17 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>2</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,2,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="LODR_PRICE" id="E9C2C146-3B0A-7CBF-2D71-580FE1193C03">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>LODR</sourceObjSchema>
+<sourceObjName>LODR_PRICE</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 03:10:17 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,6,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="LODR_STATE" id="5CD08568-E59D-68AA-42A6-3CC2A17A37BF">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>LODR</sourceObjSchema>
+<sourceObjName>LODR_STATE</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 03:10:17 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="LODR_ID" id="644ECEBD-D27E-2983-7510-18103F22AB31">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>LODR</sourceObjSchema>
+<sourceObjName>LODR_ID</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 03:10:17 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ODR_NUM" id="06A280A5-4C49-7D73-CCDA-F2240C7E4866">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>LODR</sourceObjSchema>
+<sourceObjName>ODR_NUM</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 03:10:17 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>5</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,5,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORD_SEAT" id="DEBE01CF-F05B-CFA0-85F8-E98E3E3F6008">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>LODR</sourceObjSchema>
+<sourceObjName>ORD_SEAT</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 03:10:17 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,3,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="515E0B92-C4D0-F09D-AA70-8287F11B90F2" name="ODR_DETAIL_PK">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>PCMANAGEMENT</sourceObjSchema>
+<sourceObjName>ODR_DETAIL_PK</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 03:10:17 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D48ECC15-F5E6-0F6A-5280-E96CDA844237"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="00DBFCE7-D8AD-6700-11BD-5688E1607D14" schemaObject="C5FDC8E2-2C1D-B471-5A5D-09A9D47A77B1" name="ODR_DETAIL_PK">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>PCMANAGEMENT</sourceObjSchema>
+<sourceObjName>ODR_DETAIL_PK</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 03:10:17 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D48ECC15-F5E6-0F6A-5280-E96CDA844237"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -1,0 +1,195 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="E31D3066-E084-1043-310B-A8FD08D934F3" schemaObject="C5FDC8E2-2C1D-B471-5A5D-09A9D47A77B1" name="ODR_TIME">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>PCMANAGEMENT</sourceObjSchema>
+<sourceObjName>ODR_TIME</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:59 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ORDER_NUM" id="2649C356-689A-C4C5-C477-24185064FCBC">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>ODR_TIME</sourceObjSchema>
+<sourceObjName>ORDER_NUM</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:59 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>5</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,5,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_STARTTIME" id="55CDBC27-1DEA-9B69-F19C-30758848A511">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>ODR_TIME</sourceObjSchema>
+<sourceObjName>ORDER_STARTTIME</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:59 UTC</createdTime>
+<commentInRDBMS><![CDATA[시작시간]]></commentInRDBMS>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_PAYTIME" id="C867233F-D3AD-113D-1D6F-C72B612C558E">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>ODR_TIME</sourceObjSchema>
+<sourceObjName>ORDER_PAYTIME</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:59 UTC</createdTime>
+<commentInRDBMS><![CDATA[시간충전]]></commentInRDBMS>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,3,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_TIME" id="099400DD-B2A0-F929-CC70-68E2D077C44E">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>ODR_TIME</sourceObjSchema>
+<sourceObjName>ORDER_TIME</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:59 UTC</createdTime>
+<commentInRDBMS><![CDATA[주문시간]]></commentInRDBMS>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_QUITTIME" id="BE872EF1-2D76-CBB7-FDDE-0D8808C9543B">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>ODR_TIME</sourceObjSchema>
+<sourceObjName>ORDER_QUITTIME</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:59 UTC</createdTime>
+<commentInRDBMS><![CDATA[종료시간]]></commentInRDBMS>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_SEAT" id="C8132D9D-3930-260E-82BA-6A422DBC4C3E">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>ODR_TIME</sourceObjSchema>
+<sourceObjName>ORDER_SEAT</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:59 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="37170FFC-C535-7FAE-2FCD-CF286885EA7C" referredColumn="E5F51AEE-B747-9CA1-94BA-F34229665C18"/>
+</associations>
+</Column>
+<Column name="ORDER_MEMBER" id="73C9E2B6-36F9-DA61-04C8-A8F1FFB54B19">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>ODR_TIME</sourceObjSchema>
+<sourceObjName>ORDER_MEMBER</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:59 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20 BYTE</dataTypeSize>
+<ownDataTypeParameters>20 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_ID" id="E522B1EA-9C87-BA61-4826-5F67DB1C08B9">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>ODR_TIME</sourceObjSchema>
+<sourceObjName>ORDER_ID</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:59 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="C38177A4-1CBE-2851-A058-6352C9160A2D" referredColumn="2687E8FA-B9EC-7AB5-F306-6A9C5E0B0D33"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="69535499-0F47-F857-283E-B1F049C70CAD" name="ORDERTIME_PK">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>PCMANAGEMENT</sourceObjSchema>
+<sourceObjName>ORDERTIME_PK</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:59 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="2649C356-689A-C4C5-C477-24185064FCBC"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="8E2D339D-FE26-C3C5-2BCA-D5B7C9BD0196" schemaObject="C5FDC8E2-2C1D-B471-5A5D-09A9D47A77B1" name="ORDERTIME_PK">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>PCMANAGEMENT</sourceObjSchema>
+<sourceObjName>ORDERTIME_PK</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:59 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="2649C356-689A-C4C5-C477-24185064FCBC"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="59F2E26F-F858-0A9B-5196-23A6AE8C44F3" name="ODR_TIME_SEAT_FK">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:52:30 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="C8132D9D-3930-260E-82BA-6A422DBC4C3E"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="7E18C730-67AF-3165-1E49-041310F7BFDF" name="ODR_TIME_MEMBER_FK">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:53:47 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="E522B1EA-9C87-BA61-4826-5F67DB1C08B9"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

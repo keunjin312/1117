@@ -1,0 +1,97 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<UserOraclev10g class="oracle.dbtools.crest.model.design.storage.oracle.v10g.UserOraclev10g" name="PCMANAGEMENT" directorySegmentName="seg_0" id="BA91D0A6-A5A6-9B7A-CBCB-4ACBC0C4E71C">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjName>PCMANAGEMENT</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:38 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<schemaObject>C5FDC8E2-2C1D-B471-5A5D-09A9D47A77B1</schemaObject>
+<defTableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</defTableSpace>
+<privileges>UNLIMITED TABLESPACE</privileges>
+<quotaItems>
+<QuotaItem class="oracle.dbtools.crest.model.design.storage.oracle.v10g.QuotaItemOraclev10g" name="QuotaItem1" id="76760E30-92F9-6639-B243-2C33416ED2BD">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:50 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<size>10737418240</size>
+<tableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</tableSpace>
+</QuotaItem>
+<QuotaItem class="oracle.dbtools.crest.model.design.storage.oracle.v10g.QuotaItemOraclev10g" name="QuotaItem2" id="2624E0FE-7AA6-CA78-B5AC-FF14E498266F">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:54 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<size>10737418240</size>
+<tableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</tableSpace>
+</QuotaItem>
+<QuotaItem class="oracle.dbtools.crest.model.design.storage.oracle.v10g.QuotaItemOraclev10g" name="QuotaItem3" id="1FBB4315-EFAD-F75E-DC4D-E0E1DEF0A123">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:56 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<size>10737418240</size>
+<tableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</tableSpace>
+</QuotaItem>
+<QuotaItem class="oracle.dbtools.crest.model.design.storage.oracle.v10g.QuotaItemOraclev10g" name="QuotaItem4" id="D4F9CC43-509A-9C08-558C-C6C861864A74">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:59 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<size>10737418240</size>
+<tableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</tableSpace>
+</QuotaItem>
+<QuotaItem class="oracle.dbtools.crest.model.design.storage.oracle.v10g.QuotaItemOraclev10g" name="QuotaItem5" id="887075E9-10D9-B432-289C-949F922EDDB0">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:44:09 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<size>10737418240</size>
+<tableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</tableSpace>
+</QuotaItem>
+<QuotaItem class="oracle.dbtools.crest.model.design.storage.oracle.v10g.QuotaItemOraclev10g" name="QuotaItem6" id="51448C5B-FFAB-4201-8FAF-1FFB949BA51E">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:44:17 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<size>10737418240</size>
+<tableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</tableSpace>
+</QuotaItem>
+<QuotaItem class="oracle.dbtools.crest.model.design.storage.oracle.v10g.QuotaItemOraclev10g" name="QuotaItem7" id="5AB19003-FF46-C61C-EA69-210B2299D0C8">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:47:31 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<size>10737418240</size>
+<tableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</tableSpace>
+</QuotaItem>
+<QuotaItem class="oracle.dbtools.crest.model.design.storage.oracle.v10g.QuotaItemOraclev10g" name="QuotaItem8" id="7D44F583-70D9-9754-FE8D-22B3467642A8">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:49:12 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<size>10737418240</size>
+<tableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</tableSpace>
+</QuotaItem>
+<QuotaItem class="oracle.dbtools.crest.model.design.storage.oracle.v10g.QuotaItemOraclev10g" name="QuotaItem9" id="EC9E9A90-6B81-8318-61E7-2D175565023F">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:52:11 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<size>10737418240</size>
+<tableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</tableSpace>
+</QuotaItem>
+<QuotaItem class="oracle.dbtools.crest.model.design.storage.oracle.v10g.QuotaItemOraclev10g" name="QuotaItem10" id="BBEA0FF3-72F2-9969-B408-A7A455F05F88">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 03:02:55 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<size>10737418240</size>
+<tableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</tableSpace>
+</QuotaItem>
+<QuotaItem class="oracle.dbtools.crest.model.design.storage.oracle.v10g.QuotaItemOraclev10g" name="QuotaItem11" id="C0AB8758-6104-3903-B782-81A5D75B91E5">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 03:10:17 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<size>10737418240</size>
+<tableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</tableSpace>
+</QuotaItem>
+<QuotaItem class="oracle.dbtools.crest.model.design.storage.oracle.v10g.QuotaItemOraclev10g" name="QuotaItem12" id="75EDB115-B2B1-D1C3-E9EC-B5EFC9A7D6CD">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 03:10:26 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<size>10737418240</size>
+<tableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</tableSpace>
+</QuotaItem>
+</quotaItems>
+</UserOraclev10g>

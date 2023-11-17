@@ -1,0 +1,13 @@
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\고객pc.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\고객pc.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\고객pc.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\고객pc.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Loginform.resources
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Windows.Pop.Join.resources
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Windows.Pop.JoinPop.resources

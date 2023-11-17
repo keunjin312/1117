@@ -1,0 +1,176 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="1079A4BC-08D3-A880-AE84-8AE820A43125" schemaObject="7BEBD2E1-BBD1-9605-88E9-9DD9AFA324CD" name="ORDERPROD">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>PCMANAGEMENT</sourceObjSchema>
+<sourceObjName>ORDERPROD</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:25:09 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ORDER_NUM" id="ACCC18A7-5EB0-3E4B-54AA-61BB427F7471">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>ORDERPROD</sourceObjSchema>
+<sourceObjName>ORDER_NUM</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:25:09 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>5</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,5,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_ID" id="A34A1BE6-A730-24F0-3EFE-FFAD7E0CDD2F">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>ORDERPROD</sourceObjSchema>
+<sourceObjName>ORDER_ID</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:25:09 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="4C9CE4CE-363B-5F4B-215E-503AE7E22281" referredColumn="C44717E1-321A-C312-DF7B-0FD791B63808"/>
+</associations>
+</Column>
+<Column name="ORDER_PRODNUM" id="D31BC0E9-534F-C170-3D4D-427C6F457B24">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>ORDERPROD</sourceObjSchema>
+<sourceObjName>ORDER_PRODNUM</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:25:09 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,3,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="07C3B60C-7001-B2D3-E1E3-EB87B12D03CB" referredColumn="1925FCAF-9624-91FD-5282-93026001B3E4"/>
+</associations>
+</Column>
+<Column name="ORDER_AMOUNT" id="2FE105DB-53C7-9021-5998-A85784F66AA1">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>ORDERPROD</sourceObjSchema>
+<sourceObjName>ORDER_AMOUNT</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:25:09 UTC</createdTime>
+<commentInRDBMS><![CDATA[없으면 1]]></commentInRDBMS>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>2</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,2,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_SEAT" id="2C70770D-C950-F16F-FD3D-69B388B5ECC0">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>ORDERPROD</sourceObjSchema>
+<sourceObjName>ORDER_SEAT</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:25:09 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,3,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="BFB2ACAD-DEFD-08F4-1B06-2B45F8BC3254" referredColumn="BC5241A8-3222-9D45-14F7-EF9E3F0BA4BD"/>
+</associations>
+</Column>
+<Column name="ORDER_TIME" id="CA95B8FE-BF17-6BE3-5A50-78C7238F3B89">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>ORDERPROD</sourceObjSchema>
+<sourceObjName>ORDER_TIME</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:25:09 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="5ECE36C8-14E7-6517-7E73-BFDA4CF78466" name="ORDERPROD_PK">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>PCMANAGEMENT</sourceObjSchema>
+<sourceObjName>ORDERPROD_PK</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:25:09 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="ACCC18A7-5EB0-3E4B-54AA-61BB427F7471"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="87023ECA-89DE-019C-C047-943F21C71FBA" schemaObject="7BEBD2E1-BBD1-9605-88E9-9DD9AFA324CD" name="ORDERPROD_PK">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>PCMANAGEMENT</sourceObjSchema>
+<sourceObjName>ORDERPROD_PK</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:25:09 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="ACCC18A7-5EB0-3E4B-54AA-61BB427F7471"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="6B6CD7C6-DDB6-8EA6-1B34-19856B0A5C75" name="ORDERPROD_MEMBER_FK">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:25:13 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A34A1BE6-A730-24F0-3EFE-FFAD7E0CDD2F"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="224EA903-20CF-1E9E-B8B4-BE60E56E252B" name="ORDERPROD_PRODINFO_FK">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:25:21 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D31BC0E9-534F-C170-3D4D-427C6F457B24"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="F1CC79FA-0F7B-09D6-EB9F-F81DEDDC2822" name="ORDERPROD_SEAT_FK">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:25:37 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="2C70770D-C950-F16F-FD3D-69B388B5ECC0"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

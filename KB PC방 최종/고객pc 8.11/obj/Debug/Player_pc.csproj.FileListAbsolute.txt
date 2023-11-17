@@ -1,0 +1,288 @@
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\Player_pc.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\Player_pc.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\Player_pc.Loginform.resources
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\Player_pc.Windows.Pop.JoinPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\Player_pc.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\Player_pc.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\KB\Desktop\과과제제\pc 방\001\WindowsFormsApp1\obj\Debug\Player_pc.Windows.Pop.FindIdPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\001\Player_pc\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\KB\Desktop\과과제제\pc 방\001\Player_pc\bin\Debug\WindowsFormsApp1.exe
+C:\Users\KB\Desktop\과과제제\pc 방\001\Player_pc\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\KB\Desktop\과과제제\pc 방\001\Player_pc\obj\Debug\Player_pc.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\과과제제\pc 방\001\Player_pc\obj\Debug\Player_pc.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\과과제제\pc 방\001\Player_pc\obj\Debug\Player_pc.Loginform.resources
+C:\Users\KB\Desktop\과과제제\pc 방\001\Player_pc\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\KB\Desktop\과과제제\pc 방\001\Player_pc\obj\Debug\Player_pc.Windows.Pop.FindIdPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\001\Player_pc\obj\Debug\Player_pc.Windows.Pop.JoinPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\001\Player_pc\obj\Debug\Player_pc.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\과과제제\pc 방\001\Player_pc\obj\Debug\Player_pc.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\과과제제\pc 방\001\Player_pc\obj\Debug\WindowsFormsApp1.exe
+C:\Users\KB\Desktop\과과제제\pc 방\001\Player_pc\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\KB\Desktop\과과제제\pc 방\001\Player_pc\obj\Debug\Player_pc.Windows.Pop.FindPwPop.resources
+C:\Users\KB\Desktop\프로젝트 1조\Player_pc\obj\Debug\Player_pc.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\프로젝트 1조\Player_pc\obj\Debug\Player_pc.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\프로젝트 1조\Player_pc\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\프로젝트 1조\Player_pc\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\프로젝트 1조\Player_pc\obj\Debug\Player_pc.Loginform.resources
+C:\Users\KB\Desktop\프로젝트 1조\Player_pc\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\KB\Desktop\프로젝트 1조\Player_pc\obj\Debug\Player_pc.Windows.Pop.FindIdPop.resources
+C:\Users\KB\Desktop\프로젝트 1조\Player_pc\obj\Debug\Player_pc.Windows.Pop.FindPwPop.resources
+C:\Users\KB\Desktop\프로젝트 1조\Player_pc\obj\Debug\Player_pc.Windows.Pop.JoinPop.resources
+C:\Users\KB\Desktop\프로젝트 1조\Player_pc\obj\Debug\Player_pc.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\프로젝트 1조\Player_pc\obj\Debug\Player_pc.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\프로젝트 1조\Player_pc\obj\Debug\WindowsFormsApp1.exe
+C:\Users\KB\Desktop\프로젝트 1조\Player_pc\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\KB\Desktop\프로젝트 1조\Player_pc\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\KB\Desktop\프로젝트 1조\Player_pc\bin\Debug\WindowsFormsApp1.exe
+C:\Users\KB\Desktop\프로젝트 1조\Player_pc\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\KB\Desktop\과과제제\pc 방\002\obj\Debug\Player_pc.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\과과제제\pc 방\002\obj\Debug\Player_pc.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\과과제제\pc 방\002\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\002\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\과과제제\pc 방\002\obj\Debug\Player_pc.Loginform.resources
+C:\Users\KB\Desktop\과과제제\pc 방\002\obj\Debug\Player_pc.Windows.Pop.FindIdPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\002\obj\Debug\Player_pc.Windows.Pop.FindPwPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\002\obj\Debug\Player_pc.Windows.Pop.JoinPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\002\obj\Debug\Player_pc.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\과과제제\pc 방\002\obj\Debug\Player_pc.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\과과제제\pc 방\002\bin\Debug\Player_pc.exe.config
+C:\Users\KB\Desktop\과과제제\pc 방\002\bin\Debug\Player_pc.exe
+C:\Users\KB\Desktop\과과제제\pc 방\002\bin\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\과과제제\pc 방\002\obj\Debug\Player_pc.Properties.Resources.resources
+C:\Users\KB\Desktop\과과제제\pc 방\002\obj\Debug\Player_pc.exe
+C:\Users\KB\Desktop\과과제제\pc 방\002\obj\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\과과제제\pc 방\002\obj\Debug\Player_pc.Windows.Pop.PlayerPcPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\003\bin\Debug\Player_pc.exe.config
+C:\Users\KB\Desktop\과과제제\pc 방\003\bin\Debug\Player_pc.exe
+C:\Users\KB\Desktop\과과제제\pc 방\003\bin\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\과과제제\pc 방\003\obj\Debug\Player_pc.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\과과제제\pc 방\003\obj\Debug\Player_pc.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\과과제제\pc 방\003\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\003\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\과과제제\pc 방\003\obj\Debug\Player_pc.Loginform.resources
+C:\Users\KB\Desktop\과과제제\pc 방\003\obj\Debug\Player_pc.Properties.Resources.resources
+C:\Users\KB\Desktop\과과제제\pc 방\003\obj\Debug\Player_pc.Windows.Pop.FindIdPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\003\obj\Debug\Player_pc.Windows.Pop.FindPwPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\003\obj\Debug\Player_pc.Windows.Pop.JoinPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\003\obj\Debug\Player_pc.Windows.Pop.PlayerPcPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\003\obj\Debug\Player_pc.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\과과제제\pc 방\003\obj\Debug\Player_pc.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\과과제제\pc 방\003\obj\Debug\Player_pc.exe
+C:\Users\KB\Desktop\과과제제\pc 방\003\obj\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\003\bin\Debug\Player_pc.exe.config
+C:\Users\KB\Desktop\003\bin\Debug\Player_pc.exe
+C:\Users\KB\Desktop\003\bin\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\003\obj\Debug\Player_pc.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\003\obj\Debug\Player_pc.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\003\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\003\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\003\obj\Debug\Player_pc.Loginform.resources
+C:\Users\KB\Desktop\003\obj\Debug\Player_pc.Properties.Resources.resources
+C:\Users\KB\Desktop\003\obj\Debug\Player_pc.Windows.Pop.FindIdPop.resources
+C:\Users\KB\Desktop\003\obj\Debug\Player_pc.Windows.Pop.FindPwPop.resources
+C:\Users\KB\Desktop\003\obj\Debug\Player_pc.Windows.Pop.JoinPop.resources
+C:\Users\KB\Desktop\003\obj\Debug\Player_pc.Windows.Pop.PlayerPcPop.resources
+C:\Users\KB\Desktop\003\obj\Debug\Player_pc.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\003\obj\Debug\Player_pc.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\003\obj\Debug\Player_pc.exe
+C:\Users\KB\Desktop\003\obj\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\과과제제\pc 방\004\bin\Debug\Player_pc.exe.config
+C:\Users\KB\Desktop\과과제제\pc 방\004\bin\Debug\Player_pc.exe
+C:\Users\KB\Desktop\과과제제\pc 방\004\bin\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\과과제제\pc 방\004\obj\Debug\Player_pc.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\과과제제\pc 방\004\obj\Debug\Player_pc.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\과과제제\pc 방\004\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\004\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\과과제제\pc 방\004\obj\Debug\Player_pc.Loginform.resources
+C:\Users\KB\Desktop\과과제제\pc 방\004\obj\Debug\Player_pc.Properties.Resources.resources
+C:\Users\KB\Desktop\과과제제\pc 방\004\obj\Debug\Player_pc.Windows.Pop.FindIdPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\004\obj\Debug\Player_pc.Windows.Pop.FindPwPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\004\obj\Debug\Player_pc.Windows.Pop.JoinPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\004\obj\Debug\Player_pc.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\과과제제\pc 방\004\obj\Debug\Player_pc.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\과과제제\pc 방\004\obj\Debug\Player_pc.exe
+C:\Users\KB\Desktop\과과제제\pc 방\004\obj\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\과과제제\pc 방\004\obj\Debug\Player_pc.Windows.Pop.AddTimePop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\004\obj\Debug\Player_pc.Windows.Pop.PlayerPcPop.resources
+D:\KSM\수업자료\프로젝트수업\프로젝트1조\장성진\0808\004\bin\Debug\Player_pc.exe.config
+D:\KSM\수업자료\프로젝트수업\프로젝트1조\장성진\0808\004\bin\Debug\Player_pc.exe
+D:\KSM\수업자료\프로젝트수업\프로젝트1조\장성진\0808\004\bin\Debug\Player_pc.pdb
+D:\KSM\수업자료\프로젝트수업\프로젝트1조\장성진\0808\004\obj\Debug\Player_pc.csproj.AssemblyReference.cache
+D:\KSM\수업자료\프로젝트수업\프로젝트1조\장성진\0808\004\obj\Debug\Player_pc.csproj.SuggestedBindingRedirects.cache
+D:\KSM\수업자료\프로젝트수업\프로젝트1조\장성진\0808\004\obj\Debug\Lib.Frame.MasterPop.resources
+D:\KSM\수업자료\프로젝트수업\프로젝트1조\장성진\0808\004\obj\Debug\Lib.Frame.MasterView.resources
+D:\KSM\수업자료\프로젝트수업\프로젝트1조\장성진\0808\004\obj\Debug\Player_pc.Loginform.resources
+D:\KSM\수업자료\프로젝트수업\프로젝트1조\장성진\0808\004\obj\Debug\Player_pc.Properties.Resources.resources
+D:\KSM\수업자료\프로젝트수업\프로젝트1조\장성진\0808\004\obj\Debug\Player_pc.Windows.Pop.AddTimePop.resources
+D:\KSM\수업자료\프로젝트수업\프로젝트1조\장성진\0808\004\obj\Debug\Player_pc.Windows.Pop.FindIdPop.resources
+D:\KSM\수업자료\프로젝트수업\프로젝트1조\장성진\0808\004\obj\Debug\Player_pc.Windows.Pop.FindPwPop.resources
+D:\KSM\수업자료\프로젝트수업\프로젝트1조\장성진\0808\004\obj\Debug\Player_pc.Windows.Pop.JoinPop.resources
+D:\KSM\수업자료\프로젝트수업\프로젝트1조\장성진\0808\004\obj\Debug\Player_pc.Windows.Pop.PlayerPcPop.resources
+D:\KSM\수업자료\프로젝트수업\프로젝트1조\장성진\0808\004\obj\Debug\Player_pc.csproj.GenerateResource.cache
+D:\KSM\수업자료\프로젝트수업\프로젝트1조\장성진\0808\004\obj\Debug\Player_pc.csproj.CoreCompileInputs.cache
+D:\KSM\수업자료\프로젝트수업\프로젝트1조\장성진\0808\004\obj\Debug\Player_pc.exe
+D:\KSM\수업자료\프로젝트수업\프로젝트1조\장성진\0808\004\obj\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\과과제제\pc 방\0808T\004\bin\Debug\Player_pc.exe.config
+C:\Users\KB\Desktop\과과제제\pc 방\0808T\004\bin\Debug\Player_pc.exe
+C:\Users\KB\Desktop\과과제제\pc 방\0808T\004\bin\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\과과제제\pc 방\0808T\004\obj\Debug\Player_pc.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\과과제제\pc 방\0808T\004\obj\Debug\Player_pc.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\과과제제\pc 방\0808T\004\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\0808T\004\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\과과제제\pc 방\0808T\004\obj\Debug\Player_pc.Loginform.resources
+C:\Users\KB\Desktop\과과제제\pc 방\0808T\004\obj\Debug\Player_pc.Properties.Resources.resources
+C:\Users\KB\Desktop\과과제제\pc 방\0808T\004\obj\Debug\Player_pc.Windows.Pop.AddTimePop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\0808T\004\obj\Debug\Player_pc.Windows.Pop.FindIdPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\0808T\004\obj\Debug\Player_pc.Windows.Pop.FindPwPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\0808T\004\obj\Debug\Player_pc.Windows.Pop.JoinPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\0808T\004\obj\Debug\Player_pc.Windows.Pop.PlayerPcPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\0808T\004\obj\Debug\Player_pc.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\과과제제\pc 방\0808T\004\obj\Debug\Player_pc.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\과과제제\pc 방\0808T\004\obj\Debug\Player_pc.exe
+C:\Users\KB\Desktop\과과제제\pc 방\0808T\004\obj\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\obj\Debug\Player_pc.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\obj\Debug\Player_pc.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\obj\Debug\Player_pc.Loginform.resources
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\obj\Debug\Player_pc.Properties.Resources.resources
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\obj\Debug\Player_pc.Windows.Pop.AddTimePop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\obj\Debug\Player_pc.Windows.Pop.FindIdPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\obj\Debug\Player_pc.Windows.Pop.FindPwPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\obj\Debug\Player_pc.Windows.Pop.JoinPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\obj\Debug\mainPC.Windows.mainPC.상품관리.MemoPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\obj\Debug\Player_pc.Windows.Pop.PlayerPcPop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_order_Pop.resources
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\obj\Debug\Player_pc.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\obj\Debug\Player_pc.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\obj\Debug\Player_pc.exe
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\obj\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\bin\Debug\Player_pc.exe.config
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\bin\Debug\Player_pc.exe
+C:\Users\KB\Desktop\과과제제\pc 방\005\004\bin\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\고객pc\bin\Debug\Player_pc.exe.config
+C:\Users\KB\Desktop\고객pc\bin\Debug\Player_pc.exe
+C:\Users\KB\Desktop\고객pc\bin\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\고객pc\obj\Debug\Player_pc.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\고객pc\obj\Debug\Player_pc.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\고객pc\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\고객pc\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\고객pc\obj\Debug\Player_pc.Loginform.resources
+C:\Users\KB\Desktop\고객pc\obj\Debug\Player_pc.Properties.Resources.resources
+C:\Users\KB\Desktop\고객pc\obj\Debug\Player_pc.Windows.Pop.AddTimePop.resources
+C:\Users\KB\Desktop\고객pc\obj\Debug\Player_pc.Windows.Pop.FindIdPop.resources
+C:\Users\KB\Desktop\고객pc\obj\Debug\Player_pc.Windows.Pop.FindPwPop.resources
+C:\Users\KB\Desktop\고객pc\obj\Debug\Player_pc.Windows.Pop.JoinPop.resources
+C:\Users\KB\Desktop\고객pc\obj\Debug\mainPC.Windows.mainPC.상품관리.MemoPop.resources
+C:\Users\KB\Desktop\고객pc\obj\Debug\Player_pc.Windows.Pop.PlayerPcPop.resources
+C:\Users\KB\Desktop\고객pc\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_order_Pop.resources
+C:\Users\KB\Desktop\고객pc\obj\Debug\Player_pc.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\고객pc\obj\Debug\Player_pc.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\고객pc\obj\Debug\Player_pc.exe
+C:\Users\KB\Desktop\고객pc\obj\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\고객pc-1\bin\Debug\Player_pc.exe.config
+C:\Users\KB\Desktop\고객pc-1\bin\Debug\Player_pc.exe
+C:\Users\KB\Desktop\고객pc-1\bin\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\고객pc-1\obj\Debug\Player_pc.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\고객pc-1\obj\Debug\Player_pc.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\고객pc-1\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\고객pc-1\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\고객pc-1\obj\Debug\Player_pc.Loginform.resources
+C:\Users\KB\Desktop\고객pc-1\obj\Debug\Player_pc.Properties.Resources.resources
+C:\Users\KB\Desktop\고객pc-1\obj\Debug\Player_pc.Windows.Pop.AddTimePop.resources
+C:\Users\KB\Desktop\고객pc-1\obj\Debug\Player_pc.Windows.Pop.FindIdPop.resources
+C:\Users\KB\Desktop\고객pc-1\obj\Debug\Player_pc.Windows.Pop.FindPwPop.resources
+C:\Users\KB\Desktop\고객pc-1\obj\Debug\Player_pc.Windows.Pop.JoinPop.resources
+C:\Users\KB\Desktop\고객pc-1\obj\Debug\mainPC.Windows.mainPC.상품관리.MemoPop.resources
+C:\Users\KB\Desktop\고객pc-1\obj\Debug\Player_pc.Windows.Pop.PlayerPcPop.resources
+C:\Users\KB\Desktop\고객pc-1\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_order_Pop.resources
+C:\Users\KB\Desktop\고객pc-1\obj\Debug\Player_pc.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\고객pc-1\obj\Debug\Player_pc.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\고객pc-1\obj\Debug\Player_pc.exe
+C:\Users\KB\Desktop\고객pc-1\obj\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\고객pc-1 - 복사본\bin\Debug\Player_pc.exe.config
+C:\Users\KB\Desktop\고객pc-1 - 복사본\bin\Debug\Player_pc.exe
+C:\Users\KB\Desktop\고객pc-1 - 복사본\bin\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\고객pc-1 - 복사본\obj\Debug\Player_pc.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\고객pc-1 - 복사본\obj\Debug\Player_pc.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\고객pc-1 - 복사본\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\고객pc-1 - 복사본\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\고객pc-1 - 복사본\obj\Debug\Player_pc.Loginform.resources
+C:\Users\KB\Desktop\고객pc-1 - 복사본\obj\Debug\Player_pc.Properties.Resources.resources
+C:\Users\KB\Desktop\고객pc-1 - 복사본\obj\Debug\Player_pc.Windows.Pop.AddTimePop.resources
+C:\Users\KB\Desktop\고객pc-1 - 복사본\obj\Debug\Player_pc.Windows.Pop.FindIdPop.resources
+C:\Users\KB\Desktop\고객pc-1 - 복사본\obj\Debug\Player_pc.Windows.Pop.FindPwPop.resources
+C:\Users\KB\Desktop\고객pc-1 - 복사본\obj\Debug\Player_pc.Windows.Pop.JoinPop.resources
+C:\Users\KB\Desktop\고객pc-1 - 복사본\obj\Debug\mainPC.Windows.mainPC.상품관리.MemoPop.resources
+C:\Users\KB\Desktop\고객pc-1 - 복사본\obj\Debug\Player_pc.Windows.Pop.PlayerPcPop.resources
+C:\Users\KB\Desktop\고객pc-1 - 복사본\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_order_Pop.resources
+C:\Users\KB\Desktop\고객pc-1 - 복사본\obj\Debug\Player_pc.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\고객pc-1 - 복사본\obj\Debug\Player_pc.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\고객pc-1 - 복사본\obj\Debug\Player_pc.exe
+C:\Users\KB\Desktop\고객pc-1 - 복사본\obj\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\고객pc-2\bin\Debug\Player_pc.exe.config
+C:\Users\KB\Desktop\고객pc-2\bin\Debug\Player_pc.exe
+C:\Users\KB\Desktop\고객pc-2\bin\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\고객pc-2\obj\Debug\Player_pc.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\고객pc-2\obj\Debug\Player_pc.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\고객pc-2\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\고객pc-2\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\고객pc-2\obj\Debug\Player_pc.Loginform.resources
+C:\Users\KB\Desktop\고객pc-2\obj\Debug\Player_pc.Properties.Resources.resources
+C:\Users\KB\Desktop\고객pc-2\obj\Debug\Player_pc.Windows.Pop.AddTimePop.resources
+C:\Users\KB\Desktop\고객pc-2\obj\Debug\Player_pc.Windows.Pop.FindIdPop.resources
+C:\Users\KB\Desktop\고객pc-2\obj\Debug\Player_pc.Windows.Pop.FindPwPop.resources
+C:\Users\KB\Desktop\고객pc-2\obj\Debug\Player_pc.Windows.Pop.JoinPop.resources
+C:\Users\KB\Desktop\고객pc-2\obj\Debug\mainPC.Windows.mainPC.상품관리.MemoPop.resources
+C:\Users\KB\Desktop\고객pc-2\obj\Debug\Player_pc.Windows.Pop.PlayerPcPop.resources
+C:\Users\KB\Desktop\고객pc-2\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_order_Pop.resources
+C:\Users\KB\Desktop\고객pc-2\obj\Debug\Player_pc.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\고객pc-2\obj\Debug\Player_pc.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\고객pc-2\obj\Debug\Player_pc.exe
+C:\Users\KB\Desktop\고객pc-2\obj\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\고객pc-3\bin\Debug\Player_pc.exe.config
+C:\Users\KB\Desktop\고객pc-3\bin\Debug\Player_pc.exe
+C:\Users\KB\Desktop\고객pc-3\bin\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\고객pc-3\obj\Debug\Player_pc.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\고객pc-3\obj\Debug\Player_pc.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\고객pc-3\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\고객pc-3\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\고객pc-3\obj\Debug\Player_pc.Loginform.resources
+C:\Users\KB\Desktop\고객pc-3\obj\Debug\Player_pc.Properties.Resources.resources
+C:\Users\KB\Desktop\고객pc-3\obj\Debug\Player_pc.Windows.Pop.AddTimePop.resources
+C:\Users\KB\Desktop\고객pc-3\obj\Debug\Player_pc.Windows.Pop.FindIdPop.resources
+C:\Users\KB\Desktop\고객pc-3\obj\Debug\Player_pc.Windows.Pop.FindPwPop.resources
+C:\Users\KB\Desktop\고객pc-3\obj\Debug\Player_pc.Windows.Pop.JoinPop.resources
+C:\Users\KB\Desktop\고객pc-3\obj\Debug\mainPC.Windows.mainPC.상품관리.MemoPop.resources
+C:\Users\KB\Desktop\고객pc-3\obj\Debug\Player_pc.Windows.Pop.PlayerPcPop.resources
+C:\Users\KB\Desktop\고객pc-3\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_order_Pop.resources
+C:\Users\KB\Desktop\고객pc-3\obj\Debug\Player_pc.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\고객pc-3\obj\Debug\Player_pc.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\고객pc-3\obj\Debug\Player_pc.exe
+C:\Users\KB\Desktop\고객pc-3\obj\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\bin\Debug\Player_pc.exe.config
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\bin\Debug\Player_pc.exe
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\bin\Debug\Player_pc.pdb
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\obj\Debug\Player_pc.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\obj\Debug\Player_pc.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\obj\Debug\Player_pc.Loginform.resources
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\obj\Debug\Player_pc.Properties.Resources.resources
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\obj\Debug\Player_pc.Windows.Pop.AddTimePop.resources
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\obj\Debug\Player_pc.Windows.Pop.FindIdPop.resources
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\obj\Debug\Player_pc.Windows.Pop.FindPwPop.resources
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\obj\Debug\Player_pc.Windows.Pop.JoinPop.resources
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\obj\Debug\mainPC.Windows.mainPC.상품관리.MemoPop.resources
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\obj\Debug\Player_pc.Windows.Pop.PlayerPcPop.resources
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_order_Pop.resources
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\obj\Debug\Player_pc.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\obj\Debug\Player_pc.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\obj\Debug\Player_pc.exe
+C:\Users\KB\Desktop\KB PC방 최종\고객pc 8.11\obj\Debug\Player_pc.pdb

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:fragment="head(title)">
+    <meta charset="UTF-8">
+    <title th:text="${title}"></title>
+    <!-- bootstrap 화면 꾸미는 템플릿 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+
+    <!-- jx 슬라이더 이미지 슬라이더 -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+
+    <!-- 구글 무료 폰트-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap" rel="stylesheet">
+    <style>
+        *{ font-family: 'Black Han Sans', sans-serif; }
+    </style>
+</head>
+<body>
+<nav th:fragment="nav(menu)" class="navbar navbar-expand-md navbar-dark bg-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand display-1" th:classappend="${menu} == 'home'? 'active text-success' " th:href="@{/}">중고조하</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item">
+                    <a th:classappend="${menu} == 'Seller'? 'active text-success' " class="nav-link" aria-current="page" th:href="@{/Seller/list}">팝니다</a>
+                </li>
+                <li class="nav-item">
+                    <a th:classappend="${menu} == 'Buyer'? 'active text-success' " class="nav-link" th:href="@{/Buyer/list}">삽니다</a>
+                </li>
+                <li class="nav-item">
+                    <a th:classappend="${menu} == 'Freeboard'? 'active text-success' " class="nav-link" th:href="@{/Freeboard/list}">자유게시판</a>
+                </li>
+                <li class="nav-item">
+                    <a th:classappend="${menu} == 'CS'? 'active text-success' " class="nav-link" th:href="@{/CS/list}">고객센터</a>
+                </li>
+                <li class="nav-item">
+                    <a th:classappend="${menu} == 'Login'? 'active text-success' " class="nav-link" th:href="@{/Login/loginpage}">Login</a>
+                </li>
+                <li class="nav-item">
+                    <a th:classappend="${menu} == 'Join'? 'active text-success' " class="nav-link" th:href="@{/Join/joinpage}">Join</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div th:fragment="commondiv(aa)">
+    <h1 th:text="${aa}"></h1>
+</div>
+</body>
+</html>

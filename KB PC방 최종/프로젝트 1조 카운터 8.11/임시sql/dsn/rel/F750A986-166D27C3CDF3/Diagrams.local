@@ -1,0 +1,6 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.relational.RelationalDesign>
+   <object objectType="main_view" objectID="FE8026F0-7990-5E22-1423-BED2DE3E3FAD" name="PCMANAGEMENT" visible="false"/>
+   <object objectType="sub_view" objectID="6E70E57A-E22C-159F-EDBA-637FDB9BA4D6" name="PCMANAGEMENT - SubView_1" visible="false"/>
+   <object objectType="sub_view" objectID="F3273EDF-2ABF-8D61-B27D-5465DB463790" name="PCMANAGEMENT - SubView_2" visible="false"/>
+</oracle.dbtools.crest.model.design.relational.RelationalDesign>
