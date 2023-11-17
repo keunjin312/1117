@@ -1,0 +1,12 @@
+C:\Users\KB\Desktop\mainPC\bin\Debug\mainPC.exe.config
+C:\Users\KB\Desktop\mainPC\bin\Debug\mainPC.exe
+C:\Users\KB\Desktop\mainPC\bin\Debug\mainPC.pdb
+C:\Users\KB\Desktop\mainPC\obj\Debug\mainPC.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\mainPC\obj\Debug\mainPC.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\mainPC\obj\Debug\mainPC.counter_main.resources
+C:\Users\KB\Desktop\mainPC\obj\Debug\mainPC.Properties.Resources.resources
+C:\Users\KB\Desktop\mainPC\obj\Debug\mainPC.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\mainPC\obj\Debug\mainPC.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\mainPC\obj\Debug\mainPC.exe
+C:\Users\KB\Desktop\mainPC\obj\Debug\mainPC.pdb
+C:\Users\KB\Desktop\mainPC\obj\Debug\mainPC.mainPC.회원관리.Member_management.resources

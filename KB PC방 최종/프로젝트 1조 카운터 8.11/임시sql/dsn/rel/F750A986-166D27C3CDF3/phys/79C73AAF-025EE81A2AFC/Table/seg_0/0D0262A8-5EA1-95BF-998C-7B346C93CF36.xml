@@ -1,0 +1,87 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev12c class="oracle.dbtools.crest.model.design.storage.oracle.v12c.TableProxyOraclev12c" name="ORDERTIME" directorySegmentName="seg_0" id="0D0262A8-5EA1-95BF-998C-7B346C93CF36">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<schemaObject>7BEBD2E1-BBD1-9605-88E9-9DD9AFA324CD</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>DC264D5C-0DDF-7FBE-717D-C5C140781EBB</segment>
+<tableSpace>027B8BF7-9C26-7050-645D-7E9C8FC056FF</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<inMemory>NO</inMemory>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="ORDER_TIME" id="0315F232-EC8A-0BF5-F0FB-4BACA104ADFE">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ORDER_NUM" id="6A6F1C6D-83E9-7255-A38F-E93BA5CE46DF">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ORDER_PAYTIME" id="8F917EA0-289C-96F5-83F4-BE9D5C6A803F">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ORDER_ID" id="9E46C3D0-0751-C94C-8D5B-5DDC110A5DFF">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ORDER_SEAT" id="A577A2EC-A9CC-DB9D-3B49-35F91BF661C6">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ORDER_STARTTIME" id="A7AC135A-AAF9-F9B8-6709-A25B177F92E2">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ORDER_QUITTIME" id="ABFBE7F4-5130-26BB-126E-BE6E11E9260F">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ORDER_MEMBER" id="C81EF2AF-0C57-D994-35BB-794398279D6B">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<indexProxies>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="ORDERTIME_PK" id="6B7EDB15-8554-9339-BDC3-723C5E670097">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<schemaObject>7BEBD2E1-BBD1-9605-88E9-9DD9AFA324CD</schemaObject>
+<segment>B6C444B4-4A29-7531-7DED-0DEEA5E6DDC6</segment>
+<tableSpace>027B8BF7-9C26-7050-645D-7E9C8FC056FF</tableSpace>
+</IndexProxy>
+</indexProxies>
+<foreignKeys>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="ORDERTIME_MEMBER_FK" id="57420950-E8C7-58ED-5BA6-1027214C2156">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:06 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ForeignKey>
+</foreignKeys>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="ORDERTIME_PK" id="B39D5C2A-9F52-FACE-D94A-928AA8E76396">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:28:02 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<segment>B6C444B4-4A29-7531-7DED-0DEEA5E6DDC6</segment>
+<tableSpace>027B8BF7-9C26-7050-645D-7E9C8FC056FF</tableSpace>
+<existingIndex>6B7EDB15-8554-9339-BDC3-723C5E670097</existingIndex>
+<indexSegment>B6C444B4-4A29-7531-7DED-0DEEA5E6DDC6</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev12c>

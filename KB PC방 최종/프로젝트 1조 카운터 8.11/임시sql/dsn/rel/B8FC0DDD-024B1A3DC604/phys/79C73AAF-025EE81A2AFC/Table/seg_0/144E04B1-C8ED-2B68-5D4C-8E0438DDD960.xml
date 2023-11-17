@@ -1,0 +1,77 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev12c class="oracle.dbtools.crest.model.design.storage.oracle.v12c.TableProxyOraclev12c" name="CHAT" directorySegmentName="seg_0" id="144E04B1-C8ED-2B68-5D4C-8E0438DDD960">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:44 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<schemaObject>C5FDC8E2-2C1D-B471-5A5D-09A9D47A77B1</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>2D39DF70-CE77-B103-4859-1B9291880A73</segment>
+<tableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<inMemory>NO</inMemory>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="CHAT_WHOTO" id="34E99998-E5B2-60C2-9565-9C5FC11A713D">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:44 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="CHAT_SEAT" id="8E1B1A29-38EA-78F7-7E12-B01B629AA3CC">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:44 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="CHAT_ID" id="BC608381-6127-49DD-E834-7734C731425E">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:44 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="CHAT_TIME" id="D2FBF8FD-12BE-9DBB-F30C-86C3B9F80B64">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:44 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="CHAT_NUM" id="E6DBD283-18EA-7070-9731-2775327F1D5F">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:44 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="CHAT_MESSAGE" id="EFE7F70B-2239-4614-8DAC-C44EA493166A">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:44 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<indexProxies>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="CHAT_PK" id="D5E00DBD-E055-2ED7-B8AC-50729CB01D80">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:44 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<schemaObject>C5FDC8E2-2C1D-B471-5A5D-09A9D47A77B1</schemaObject>
+<segment>CF7B885F-9CDE-CD97-0919-E73958FF8C25</segment>
+<tableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</tableSpace>
+</IndexProxy>
+</indexProxies>
+<foreignKeys>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="CHAT_MEMBER_FK" id="95D48233-6462-9EF2-3166-19F14E34F7AF">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:45:31 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ForeignKey>
+</foreignKeys>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="CHAT_PK" id="CC9071C4-8EE4-E96B-4C83-752EF63817A4">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:44 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<segment>CF7B885F-9CDE-CD97-0919-E73958FF8C25</segment>
+<tableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</tableSpace>
+<existingIndex>D5E00DBD-E055-2ED7-B8AC-50729CB01D80</existingIndex>
+<indexSegment>CF7B885F-9CDE-CD97-0919-E73958FF8C25</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev12c>

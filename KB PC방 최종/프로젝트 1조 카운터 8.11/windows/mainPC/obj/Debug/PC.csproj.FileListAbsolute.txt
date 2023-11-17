@@ -1,0 +1,205 @@
+C:\Users\KB\Desktop\프로젝트 1조\windows\mainPC\bin\Debug\mainPC.exe.config
+C:\Users\KB\Desktop\프로젝트 1조\windows\mainPC\bin\Debug\mainPC.exe
+C:\Users\KB\Desktop\프로젝트 1조\windows\mainPC\bin\Debug\mainPC.pdb
+C:\Users\KB\Desktop\프로젝트 1조\windows\mainPC\obj\Debug\PC.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\프로젝트 1조\windows\mainPC\obj\Debug\PC.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\프로젝트 1조\windows\mainPC\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\프로젝트 1조\windows\mainPC\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\프로젝트 1조\windows\mainPC\obj\Debug\mainPC.mainPC.CM_deliver_checkpop.resources
+C:\Users\KB\Desktop\프로젝트 1조\windows\mainPC\obj\Debug\mainPC.mainPC.CM_payment_checkpop.resources
+C:\Users\KB\Desktop\프로젝트 1조\windows\mainPC\obj\Debug\mainPC.counter_main.resources
+C:\Users\KB\Desktop\프로젝트 1조\windows\mainPC\obj\Debug\PC.Windows.mainPC.SetupPop.resources
+C:\Users\KB\Desktop\프로젝트 1조\windows\mainPC\obj\Debug\PC.Windows.mainPC.상품관리.Product_Management.resources
+C:\Users\KB\Desktop\프로젝트 1조\windows\mainPC\obj\Debug\mainPC.Properties.Resources.resources
+C:\Users\KB\Desktop\프로젝트 1조\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.회원관리.MBM_add_member.resources
+C:\Users\KB\Desktop\프로젝트 1조\windows\mainPC\obj\Debug\PC.Windows.mainPC.회원관리.Member_Management.resources
+C:\Users\KB\Desktop\프로젝트 1조\windows\mainPC\obj\Debug\PC.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\프로젝트 1조\windows\mainPC\obj\Debug\PC.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\프로젝트 1조\windows\mainPC\obj\Debug\mainPC.exe
+C:\Users\KB\Desktop\프로젝트 1조\windows\mainPC\obj\Debug\mainPC.pdb
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\obj\Debug\PC.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\obj\Debug\PC.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\obj\Debug\mainPC.mainPC.CM_deliver_checkpop.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\obj\Debug\mainPC.mainPC.CM_payment_checkpop.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\obj\Debug\mainPC.counter_main.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\obj\Debug\PC.Windows.mainPC.SetupPop.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\obj\Debug\mainPC.Properties.Resources.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.MemoPop.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_add_Pop.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\obj\Debug\PC.Windows.mainPC.상품관리.Product_Management.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_order_Pop.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.회원관리.MBM_add_member.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\obj\Debug\PC.Windows.mainPC.회원관리.Member_Management.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\obj\Debug\PC.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\obj\Debug\PC.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\obj\Debug\mainPC.exe
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\obj\Debug\mainPC.pdb
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\bin\Debug\mainPC.exe.config
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\bin\Debug\mainPC.exe
+C:\Users\KB\Desktop\프로젝트 1조8.8\windows\mainPC\bin\Debug\mainPC.pdb
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\bin\Debug\mainPC.exe.config
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\bin\Debug\mainPC.exe
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\bin\Debug\mainPC.pdb
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\obj\Debug\PC.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\obj\Debug\PC.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\obj\Debug\mainPC.mainPC.CM_deliver_checkpop.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\obj\Debug\mainPC.mainPC.CM_payment_checkpop.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\obj\Debug\mainPC.counter_main.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\obj\Debug\PC.Windows.mainPC.SetupPop.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\obj\Debug\mainPC.Properties.Resources.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.MemoPop.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_add_Pop.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\obj\Debug\PC.Windows.mainPC.상품관리.Product_Management.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_order_Pop.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.회원관리.MBM_add_member.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\obj\Debug\PC.Windows.mainPC.회원관리.Member_Management.resources
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\obj\Debug\PC.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\obj\Debug\PC.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\obj\Debug\mainPC.exe
+C:\Users\KB\Desktop\프로젝트 1조8.8 - 복사본\windows\mainPC\obj\Debug\mainPC.pdb
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\bin\Debug\mainPC.exe.config
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\bin\Debug\mainPC.exe
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\bin\Debug\mainPC.pdb
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\obj\Debug\PC.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\obj\Debug\PC.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\obj\Debug\mainPC.mainPC.CM_deliver_checkpop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\obj\Debug\mainPC.mainPC.CM_payment_checkpop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\obj\Debug\mainPC.counter_main.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\obj\Debug\PC.Windows.mainPC.SetupPop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\obj\Debug\mainPC.Properties.Resources.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.MemoPop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_add_Pop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\obj\Debug\PC.Windows.mainPC.상품관리.Product_Management.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_order_Pop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.회원관리.MBM_add_member.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\obj\Debug\PC.Windows.mainPC.회원관리.Member_Management.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\obj\Debug\PC.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\obj\Debug\PC.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\obj\Debug\mainPC.exe
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9\windows\mainPC\obj\Debug\mainPC.pdb
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\bin\Debug\mainPC.exe.config
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\bin\Debug\mainPC.exe
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\bin\Debug\mainPC.pdb
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\obj\Debug\PC.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\obj\Debug\PC.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\obj\Debug\mainPC.mainPC.CM_deliver_checkpop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\obj\Debug\mainPC.mainPC.CM_payment_checkpop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\obj\Debug\mainPC.counter_main.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\obj\Debug\PC.Windows.mainPC.SetupPop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\obj\Debug\mainPC.Properties.Resources.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.MemoPop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_add_Pop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\obj\Debug\PC.Windows.mainPC.상품관리.Product_Management.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_order_Pop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.회원관리.MBM_add_member.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\obj\Debug\PC.Windows.mainPC.회원관리.Member_Management.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\obj\Debug\PC.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\obj\Debug\PC.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\obj\Debug\mainPC.exe
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-2\windows\mainPC\obj\Debug\mainPC.pdb
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\bin\Debug\mainPC.exe.config
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\bin\Debug\mainPC.exe
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\bin\Debug\mainPC.pdb
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\obj\Debug\PC.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\obj\Debug\PC.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\obj\Debug\mainPC.mainPC.CM_deliver_checkpop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\obj\Debug\mainPC.mainPC.CM_payment_checkpop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\obj\Debug\mainPC.counter_main.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\obj\Debug\PC.Windows.mainPC.SetupPop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\obj\Debug\mainPC.Properties.Resources.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.MemoPop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_add_Pop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\obj\Debug\PC.Windows.mainPC.상품관리.Product_Management.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_order_Pop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.회원관리.MBM_add_member.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\obj\Debug\PC.Windows.mainPC.회원관리.Member_Management.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\obj\Debug\PC.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\obj\Debug\PC.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\obj\Debug\mainPC.exe
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3\windows\mainPC\obj\Debug\mainPC.pdb
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3 - 복사본\windows\mainPC\bin\Debug\mainPC.exe.config
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3 - 복사본\windows\mainPC\bin\Debug\mainPC.exe
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3 - 복사본\windows\mainPC\bin\Debug\mainPC.pdb
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3 - 복사본\windows\mainPC\obj\Debug\PC.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3 - 복사본\windows\mainPC\obj\Debug\PC.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3 - 복사본\windows\mainPC\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3 - 복사본\windows\mainPC\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3 - 복사본\windows\mainPC\obj\Debug\mainPC.counter_main.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3 - 복사본\windows\mainPC\obj\Debug\PC.Windows.mainPC.SetupPop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3 - 복사본\windows\mainPC\obj\Debug\mainPC.Properties.Resources.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3 - 복사본\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.MemoPop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3 - 복사본\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_add_Pop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3 - 복사본\windows\mainPC\obj\Debug\PC.Windows.mainPC.상품관리.Product_Management.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3 - 복사본\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.회원관리.MBM_add_member.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3 - 복사본\windows\mainPC\obj\Debug\PC.Windows.mainPC.회원관리.Member_Management.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3 - 복사본\windows\mainPC\obj\Debug\PC.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3 - 복사본\windows\mainPC\obj\Debug\PC.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3 - 복사본\windows\mainPC\obj\Debug\mainPC.exe
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.9-3 - 복사본\windows\mainPC\obj\Debug\mainPC.pdb
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\bin\Debug\mainPC.exe.config
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\bin\Debug\mainPC.exe
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\bin\Debug\mainPC.pdb
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.counter_main.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.Windows.mainPC.SetupPop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.Properties.Resources.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.MemoPop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_add_Pop.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.Windows.mainPC.상품관리.Product_Management.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.회원관리.MBM_add_member.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.Windows.mainPC.회원관리.Member_Management.resources
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.exe
+C:\Users\KB\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.pdb
+C:\Users\KB\Desktop\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\bin\Debug\mainPC.exe.config
+C:\Users\KB\Desktop\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\bin\Debug\mainPC.exe
+C:\Users\KB\Desktop\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\bin\Debug\mainPC.pdb
+C:\Users\KB\Desktop\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.counter_main.resources
+C:\Users\KB\Desktop\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.Windows.mainPC.SetupPop.resources
+C:\Users\KB\Desktop\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.Properties.Resources.resources
+C:\Users\KB\Desktop\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.MemoPop.resources
+C:\Users\KB\Desktop\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_add_Pop.resources
+C:\Users\KB\Desktop\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.Windows.mainPC.상품관리.Product_Management.resources
+C:\Users\KB\Desktop\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.회원관리.MBM_add_member.resources
+C:\Users\KB\Desktop\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.Windows.mainPC.회원관리.Member_Management.resources
+C:\Users\KB\Desktop\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.exe
+C:\Users\KB\Desktop\Desktop\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.pdb
+C:\Users\KB\Desktop\KB PC방 최종\프로젝트 1조 카운터 8.11\windows\mainPC\bin\Debug\mainPC.exe.config
+C:\Users\KB\Desktop\KB PC방 최종\프로젝트 1조 카운터 8.11\windows\mainPC\bin\Debug\mainPC.exe
+C:\Users\KB\Desktop\KB PC방 최종\프로젝트 1조 카운터 8.11\windows\mainPC\bin\Debug\mainPC.pdb
+C:\Users\KB\Desktop\KB PC방 최종\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\KB PC방 최종\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\KB PC방 최종\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\KB PC방 최종\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\KB PC방 최종\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.counter_main.resources
+C:\Users\KB\Desktop\KB PC방 최종\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.Windows.mainPC.SetupPop.resources
+C:\Users\KB\Desktop\KB PC방 최종\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.Properties.Resources.resources
+C:\Users\KB\Desktop\KB PC방 최종\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.MemoPop.resources
+C:\Users\KB\Desktop\KB PC방 최종\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.상품관리.Product_add_Pop.resources
+C:\Users\KB\Desktop\KB PC방 최종\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.Windows.mainPC.상품관리.Product_Management.resources
+C:\Users\KB\Desktop\KB PC방 최종\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.Windows.mainPC.회원관리.MBM_add_member.resources
+C:\Users\KB\Desktop\KB PC방 최종\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.Windows.mainPC.회원관리.Member_Management.resources
+C:\Users\KB\Desktop\KB PC방 최종\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\KB PC방 최종\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\PC.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\KB PC방 최종\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.exe
+C:\Users\KB\Desktop\KB PC방 최종\프로젝트 1조 카운터 8.11\windows\mainPC\obj\Debug\mainPC.pdb

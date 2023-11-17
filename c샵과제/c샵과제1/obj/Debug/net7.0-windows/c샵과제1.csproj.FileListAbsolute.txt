@@ -1,0 +1,17 @@
+C:\Users\KB\Desktop\test\c샵과제\c샵과제1\bin\Debug\net7.0-windows\c샵과제1.exe
+C:\Users\KB\Desktop\test\c샵과제\c샵과제1\bin\Debug\net7.0-windows\c샵과제1.deps.json
+C:\Users\KB\Desktop\test\c샵과제\c샵과제1\bin\Debug\net7.0-windows\c샵과제1.runtimeconfig.json
+C:\Users\KB\Desktop\test\c샵과제\c샵과제1\bin\Debug\net7.0-windows\c샵과제1.dll
+C:\Users\KB\Desktop\test\c샵과제\c샵과제1\bin\Debug\net7.0-windows\c샵과제1.pdb
+C:\Users\KB\Desktop\test\c샵과제\c샵과제1\obj\Debug\net7.0-windows\c샵과제1.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\test\c샵과제\c샵과제1\obj\Debug\net7.0-windows\c샵과제1.Form1.resources
+C:\Users\KB\Desktop\test\c샵과제\c샵과제1\obj\Debug\net7.0-windows\c샵과제1.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\test\c샵과제\c샵과제1\obj\Debug\net7.0-windows\c샵과제1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KB\Desktop\test\c샵과제\c샵과제1\obj\Debug\net7.0-windows\c샵과제1.AssemblyInfoInputs.cache
+C:\Users\KB\Desktop\test\c샵과제\c샵과제1\obj\Debug\net7.0-windows\c샵과제1.AssemblyInfo.cs
+C:\Users\KB\Desktop\test\c샵과제\c샵과제1\obj\Debug\net7.0-windows\c샵과제1.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\test\c샵과제\c샵과제1\obj\Debug\net7.0-windows\c샵과제1.dll
+C:\Users\KB\Desktop\test\c샵과제\c샵과제1\obj\Debug\net7.0-windows\refint\c샵과제1.dll
+C:\Users\KB\Desktop\test\c샵과제\c샵과제1\obj\Debug\net7.0-windows\c샵과제1.pdb
+C:\Users\KB\Desktop\test\c샵과제\c샵과제1\obj\Debug\net7.0-windows\c샵과제1.genruntimeconfig.cache
+C:\Users\KB\Desktop\test\c샵과제\c샵과제1\obj\Debug\net7.0-windows\ref\c샵과제1.dll

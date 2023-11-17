@@ -1,0 +1,70 @@
+INSERT INTO MEMBER (mb_num,mb_name,mb_id,mb_pw,mb_ph,mb_birth,mb_join) 
+VALUES (1,'정영훈','prom1a'
+,'1234'
+,'010-5045-1205'
+,to_date('94/12/27','RR/MM/DD')
+,to_date('23/07/27','RR/MM/DD')
+);
+INSERT INTO MEMBER (mb_num,mb_name,mb_id,mb_pw,mb_ph,mb_birth,mb_join) 
+VALUES (2,'김구','kg'
+,'1234'
+,'010-2451-0262'
+,to_date('99/06/08','RR/MM/DD')
+,to_date('23/07/27','RR/MM/DD')
+);
+INSERT INTO MEMBER (mb_num,mb_name,mb_id,mb_pw,mb_ph,mb_birth,mb_join) 
+VALUES (3,'박태완','ptw'
+,'1237'
+,'010-1548-4898'
+,to_date('90/08/08','RR/MM/DD')
+,to_date('23/07/27','RR/MM/DD')
+);
+INSERT INTO MEMBER (mb_num,mb_name,mb_id,mb_pw,mb_ph,mb_birth,mb_join) 
+VALUES (4,'박지성','pjs'
+,'12385'
+,'010-1111-2222'
+,to_date('99/06/03','RR/MM/DD')
+,to_date('23/07/27','RR/MM/DD')
+);
+INSERT INTO MEMBER (mb_num,mb_name,mb_id,mb_pw,mb_ph,mb_birth,mb_join) 
+VALUES (5,'김연아','ass'
+,'5342'
+,'010-1548-4453'
+,to_date('89/06/03','RR/MM/DD')
+,to_date('23/07/27','RR/MM/DD')
+);
+INSERT INTO MEMBER (mb_num,mb_name,mb_id,mb_pw,mb_ph,mb_birth,mb_join) 
+VALUES (6,'세종대왕','kingsj'
+,'5372'
+,'016-1548-4898'
+,to_date('53/03/01','RR/MM/DD')
+,to_date('23/07/27','RR/MM/DD')
+);
+INSERT INTO MEMBER (mb_num,mb_name,mb_id,mb_pw,mb_ph,mb_birth,mb_join) 
+VALUES (7,'손예진','syj'
+,'12311'
+,'016-3333-4898'
+,to_date('02/06/01','RR/MM/DD')
+,to_date('23/07/27','RR/MM/DD')
+);
+INSERT INTO MEMBER (mb_num,mb_name,mb_id,mb_pw,mb_ph,mb_birth,mb_join) 
+VALUES (8,'손흥민','son'
+,'53182'
+,'018-3333-4898'
+,to_date('02/06/04','RR/MM/DD')
+,to_date('23/07/27','RR/MM/DD')
+);
+INSERT INTO MEMBER (mb_num,mb_name,mb_id,mb_pw,mb_ph,mb_birth,mb_join) 
+VALUES (9,'신사임당','sin'
+,'8213'
+,'019-3333-4898'
+,to_date('71/12/01','RR/MM/DD')
+,to_date('23/07/27','RR/MM/DD')
+);
+INSERT INTO MEMBER (mb_num,mb_name,mb_id,mb_pw,mb_ph,mb_birth,mb_join) 
+VALUES (10,'신세경','sinsek'
+,'543511'
+,'019-3333-4778'
+,to_date('89/12/01','RR/MM/DD')
+,to_date('23/07/27','RR/MM/DD')
+);

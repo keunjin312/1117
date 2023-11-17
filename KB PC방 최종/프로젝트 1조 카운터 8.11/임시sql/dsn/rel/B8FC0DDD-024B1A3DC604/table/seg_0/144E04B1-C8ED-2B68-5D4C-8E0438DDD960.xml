@@ -1,0 +1,127 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="144E04B1-C8ED-2B68-5D4C-8E0438DDD960" schemaObject="C5FDC8E2-2C1D-B471-5A5D-09A9D47A77B1" name="CHAT">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:44 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<importedID>AF5CE6EC-428C-308A-7DAF-3A8EAA1970A1</importedID>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CHAT_ID" id="BC608381-6127-49DD-E834-7734C731425E">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:44 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<importedID>0C8D0120-C5E0-D5E0-2099-7D18A2B6B66B</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="37A5F09E-7395-42E8-6664-10D7168A7A7A" referredColumn="2687E8FA-B9EC-7AB5-F306-6A9C5E0B0D33"/>
+</associations>
+</Column>
+<Column name="CHAT_TIME" id="D2FBF8FD-12BE-9DBB-F30C-86C3B9F80B64">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:44 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<importedID>F8454197-B8DF-0DDD-B74A-9B696FB5B459</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CHAT_WHOTO" id="34E99998-E5B2-60C2-9565-9C5FC11A713D">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:44 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<importedID>AA793CFC-9FB3-3D20-F0C5-E660B1B2A295</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CHAT_MESSAGE" id="EFE7F70B-2239-4614-8DAC-C44EA493166A">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:44 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<importedID>87D19671-C1C4-01E9-7759-D61166AEB518</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>100</dataTypeSize>
+<ownDataTypeParameters>100,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CHAT_SEAT" id="8E1B1A29-38EA-78F7-7E12-B01B629AA3CC">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:44 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<importedID>D3BD67CE-EB51-D244-A585-F2C35ECBF1D4</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CHAT_NUM" id="E6DBD283-18EA-7070-9731-2775327F1D5F">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:44 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<importedID>BA1E132E-2793-81BA-4C38-120102D42D03</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>4</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,4,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="CC9071C4-8EE4-E96B-4C83-752EF63817A4" name="CHAT_PK">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:44 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<importedID>E01A196D-538F-F084-F08F-AF37452B883C</importedID>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="E6DBD283-18EA-7070-9731-2775327F1D5F"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="D5E00DBD-E055-2ED7-B8AC-50729CB01D80" schemaObject="C5FDC8E2-2C1D-B471-5A5D-09A9D47A77B1" name="CHAT_PK">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:43:44 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<importedID>FE882DD6-0AD4-E8A3-7C53-4D7B44C393CF</importedID>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="E6DBD283-18EA-7070-9731-2775327F1D5F"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="95D48233-6462-9EF2-3166-19F14E34F7AF" name="CHAT_MEMBER_FK">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:45:31 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="BC608381-6127-49DD-E834-7734C731425E"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -1,0 +1,85 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev12c class="oracle.dbtools.crest.model.design.storage.oracle.v12c.TableProxyOraclev12c" name="PROD_INFO" directorySegmentName="seg_0" id="6244CFFA-5DAE-35FD-D34F-166B02815F38">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:44:09 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<schemaObject>C5FDC8E2-2C1D-B471-5A5D-09A9D47A77B1</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>2D39DF70-CE77-B103-4859-1B9291880A73</segment>
+<tableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<inMemory>NO</inMemory>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="PROD_NAME" id="07C1663C-50B0-24D7-9A3C-501C63D7957C">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:44:09 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="PROD_NUM" id="28BCDB1A-C0A0-DA36-D539-1AFC0D5BC2A3">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:44:09 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="PROD_MEMO" id="44CAE041-AF1E-29A2-B32A-3E457D6E7A57">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:44:09 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="PROD_DETAIL" id="7A59E2B8-5B6E-6E2A-EB4E-F8B525158B01">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:44:09 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="PROD_PIC" id="D6AEC98C-E253-4D16-D1B0-13749EA10FBB">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:44:09 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="PROD_PRICE" id="F0CB0F60-59CA-99AF-C3E9-8F42B7CBFD98">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:44:09 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<indexProxies>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="PRODTBL_PK" id="9D5EF9BA-8975-5010-7D01-0D6E463DEC00">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:44:09 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<schemaObject>C5FDC8E2-2C1D-B471-5A5D-09A9D47A77B1</schemaObject>
+<segment>CF7B885F-9CDE-CD97-0919-E73958FF8C25</segment>
+<tableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</tableSpace>
+</IndexProxy>
+</indexProxies>
+<lobStorages>
+<LobStorage class="oracle.dbtools.crest.model.design.storage.oracle.v11g.LobStorageOraclev11g" name="SYS_LOB0000078882C00006$$" id="8869FD44-3115-6B09-028E-74A92EA453DA">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:44:10 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<cache>NOCACHE</cache>
+<chunk>8192</chunk>
+<column>PROD_PIC</column>
+<compression>NO</compression>
+<duplication>KEEP_DUPLICATES</duplication>
+<logging>YES</logging>
+<tableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</tableSpace>
+<lobStorageType>SECUREFILE</lobStorageType>
+</LobStorage>
+</lobStorages>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="PRODTBL_PK" id="256F2BBE-6ADB-96C2-44B8-3BD54D9231B7">
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:44:09 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<segment>CF7B885F-9CDE-CD97-0919-E73958FF8C25</segment>
+<tableSpace>0488FBC1-E96A-A245-8C90-B574AB77DD95</tableSpace>
+<existingIndex>9D5EF9BA-8975-5010-7D01-0D6E463DEC00</existingIndex>
+<indexSegment>CF7B885F-9CDE-CD97-0919-E73958FF8C25</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev12c>

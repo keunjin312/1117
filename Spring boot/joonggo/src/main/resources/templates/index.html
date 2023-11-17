@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:replace="~{layout/layout :: head('home')}">
+</head>
+<body>
+    <nav th:replace="~{layout/layout :: nav('home')}"></nav>
+    <div class="container p-3">
+        <h1></h1>
+            <div class="style" align="center";>
+                <h1>중 고 조 하</h1>
+            </div>
+    </div>
+</body>
+</html>
+<script>
+    $(document).ready(function(){
+      $(".slider").bxSlider();
+    });
+</script>

@@ -1,0 +1,103 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="FF1AAF1D-E6A5-2462-C872-75FECA87BB2B" schemaObject="C5FDC8E2-2C1D-B471-5A5D-09A9D47A77B1" name="SEAT">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>PCMANAGEMENT</sourceObjSchema>
+<sourceObjName>SEAT</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:52:11 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="SEAT_NUM" id="E5F51AEE-B747-9CA1-94BA-F34229665C18">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>SEAT</sourceObjSchema>
+<sourceObjName>SEAT_NUM</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:52:11 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,3,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="SEAT_USING" id="92FF6EC4-64E7-9BFC-05AD-1EFC939BBDBD">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>SEAT</sourceObjSchema>
+<sourceObjName>SEAT_USING</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:52:11 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="SEAT_COUNTDOWN" id="6E4223CB-AA41-C95D-2F0E-30A06E6A7248">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>SEAT</sourceObjSchema>
+<sourceObjName>SEAT_COUNTDOWN</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:52:11 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="MB_ID" id="31E701EC-FBC1-A616-9026-7E5250ADB8DF">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>SEAT</sourceObjSchema>
+<sourceObjName>MB_ID</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:52:11 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="3E602919-0A31-3869-34D6-294A47C65DAD" name="SEAT_PK">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>PCMANAGEMENT</sourceObjSchema>
+<sourceObjName>SEAT_PK</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:52:11 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="E5F51AEE-B747-9CA1-94BA-F34229665C18"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="BDCD48C7-E011-55E8-DE4A-34F95B897EC7" schemaObject="C5FDC8E2-2C1D-B471-5A5D-09A9D47A77B1" name="SEAT_PK">
+<sourceConnName>PCM</sourceConnName>
+<sourceObjSchema>PCMANAGEMENT</sourceObjSchema>
+<sourceObjName>SEAT_PK</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:52:11 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="E5F51AEE-B747-9CA1-94BA-F34229665C18"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

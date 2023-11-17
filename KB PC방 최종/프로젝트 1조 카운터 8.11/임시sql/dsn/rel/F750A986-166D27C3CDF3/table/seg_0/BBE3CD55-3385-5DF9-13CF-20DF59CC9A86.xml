@@ -1,0 +1,134 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="BBE3CD55-3385-5DF9-13CF-20DF59CC9A86" schemaObject="7BEBD2E1-BBD1-9605-88E9-9DD9AFA324CD" name="PRODINFO">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>PCMANAGEMENT</sourceObjSchema>
+<sourceObjName>PRODINFO</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:22:19 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="PROD_NUM" id="1925FCAF-9624-91FD-5282-93026001B3E4">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>PRODINFO</sourceObjSchema>
+<sourceObjName>PROD_NUM</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:22:19 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,3,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PROD_NAME" id="C6A94CCF-48D3-DD60-7FE1-C8A05B0E8FAB">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>PRODINFO</sourceObjSchema>
+<sourceObjName>PROD_NAME</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:22:19 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PROD_PRICE" id="5EA62903-6E1B-10D0-541B-8A0A0FB67BDE">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>PRODINFO</sourceObjSchema>
+<sourceObjName>PROD_PRICE</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:22:19 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>5</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,5,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PROD_MEMO" id="E12E662C-1A66-0D22-CC3D-04FD2C609C1B">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>PRODINFO</sourceObjSchema>
+<sourceObjName>PROD_MEMO</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:22:19 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PROD_DETAIL" id="4AE9A694-A842-A8C8-ED4A-2EFEFFDDE4D8">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>PRODINFO</sourceObjSchema>
+<sourceObjName>PROD_DETAIL</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:22:19 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>60</dataTypeSize>
+<ownDataTypeParameters>60,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PROD_PIC" id="A7D62A47-31F4-DC2D-20C0-EF47DDFC9D58">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>PRODINFO</sourceObjSchema>
+<sourceObjName>PROD_PIC</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:22:19 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT028</logicalDatatype>
+<dataTypeSize>4000</dataTypeSize>
+<ownDataTypeParameters>4000,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="D2CDD054-691B-D2C0-0B55-1AC57D30FD63" name="PRODTBL_PK">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>PCMANAGEMENT</sourceObjSchema>
+<sourceObjName>PRODTBL_PK</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:22:19 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="1925FCAF-9624-91FD-5282-93026001B3E4"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="74FBA65F-87D7-B5F1-1810-2EEF2F1CA407" schemaObject="7BEBD2E1-BBD1-9605-88E9-9DD9AFA324CD" name="PRODTBL_PK">
+<sourceConnName>PCMANAGEMENT</sourceConnName>
+<sourceObjSchema>PCMANAGEMENT</sourceObjSchema>
+<sourceObjName>PRODTBL_PK</sourceObjName>
+<createdBy>KB</createdBy>
+<createdTime>2023-07-26 02:22:19 UTC</createdTime>
+<ownerDesignName>dsn</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="1925FCAF-9624-91FD-5282-93026001B3E4"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
